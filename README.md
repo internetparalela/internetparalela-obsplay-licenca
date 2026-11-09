@@ -1,5 +1,17 @@
 # OBSPlay — senhas
 
+## Baixar o OBSPlay (paróquias)
+
+**[Clique aqui para baixar o OBSPlay](https://github.com/internetparalela/internetparalela-obsplay-licenca/raw/main/download/OBSPlay-paroquia.zip)**
+
+1. Instale o OBS Studio (https://obsproject.com) e deixe o OBS fechado.
+2. Extraia o arquivo baixado (botão direito > Extrair tudo).
+3. Dê dois cliques em `INSTALAR.bat` e clique em "Sim".
+4. Abra o OBS e envie ao responsável o código do computador que aparece na janela do OBSPlay.
+5. Cole a chave recebida na janela do OBSPlay.
+
+---
+
 O OBSPlay lê o arquivo `senhas.json` deste repositório toda vez que o OBS abre.
 Aqui ficam só os códigos embaralhados (SHA-256) das senhas, nunca as senhas.
 
