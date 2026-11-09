@@ -9,3 +9,8 @@ Aqui ficam só os códigos embaralhados (SHA-256) das senhas, nunca as senhas.
 Para trocar as senhas, abra `tools/gerar-senha.html` (repositório obsplay) no navegador,
 gere o conteúdo novo e cole aqui no `senhas.json`. As senhas antigas deixam de valer na
 próxima abertura do OBS com internet.
+
+## Chaves das paróquias
+
+Dentro de `"chaves"` fica uma linha por paróquia. Para renovar, mude a data `"vence"`.
+Para cancelar, apague a linha. Use `tools/gerar-chave.html` (repositório obsplay) para gerar chaves novas.
